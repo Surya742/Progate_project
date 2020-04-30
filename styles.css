@@ -1,0 +1,26 @@
+body{
+    background-color: #363636;
+}
+h1{
+    text-align: center;
+}
+.header{
+    padding: 7% 15%;
+    color: #888888;
+}
+p{
+    text-align: center;
+    padding-top:5%;
+    
+}
+#section{
+    padding: 100px;
+    padding-top: 0;
+}
+.single{
+    text-align: center;
+    padding-bottom: 5%;
+}
+/* .theme-edit{
+    background-color: #0c1924;
+} */
